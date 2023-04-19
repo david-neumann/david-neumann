@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm David
+
+- 🔭 I’m currently working on a coffee web app that tracks all of my coffee adventures
+- 🌱 I’m currently learning TypeScript and Firebase
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-neumann/) or [Email](mailto:neumann.d.david@gmail.com)
+
 
 <!--
 **david-neumann/david-neumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
